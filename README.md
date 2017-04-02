@@ -7,10 +7,15 @@ The world can experience a lot of improvements. There are 17 global goals, and w
 
 Release
 The app is available on the web in a phone simulator via appetize.io.
+
 https://appetize.io/app/g6hpb5kpz1qwqpmref0y4rj2pg
+
 *Note: The appetize.io program can easily crash. The APK is a more stable option.
+
 The APK and AIA (MIT App Inventor) files are available to download in Google Drive:
+
 https://drive.google.com/drive/folders/0B-mr2oVZgXZhNVIwcW1EakJRNGc?usp=sharing
+
 The app will only be able to be downloaded on Android devices.
 
 Programming
@@ -23,20 +28,3 @@ Visuals/Interface Designer: Razoreye - Testing, Programming, Visuals, Research, 
 
 This website is in it's beta stage. Last updated April 2nd
 
-```markdown
-Syntax highlighted code block
-
-# EduPeace
-## Test
-### Test2
-
-- Test
-- Test
-
-1. This
-2. is cool
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
